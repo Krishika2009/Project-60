@@ -1,0 +1,13 @@
+body
+{
+  text-align:center;
+  background-image: linear-gradient(300deg, #000000 0%, #090979 25%, #617cae 53%, #acdfdb 72%, #acdfdb 100%);
+}
+img
+{
+  border-radius:50%;
+ 
+}
+#wl{ 
+    text-decoration-color: floralwhite;
+}
